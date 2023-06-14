@@ -10,3 +10,13 @@ int main(void)
 	
 	return 0;
 }
+
+
+void ini_pinos(void){
+
+
+
+
+
+
+}
